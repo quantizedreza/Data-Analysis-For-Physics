@@ -1,5 +1,6 @@
 # Data Assimilation With Python 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 
 These are Applied Data Analysis codes which can be useful in any physics lab. 
 
